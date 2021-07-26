@@ -17,19 +17,18 @@ h2 {
     width: 220px;
     float: left;
     height: 200px;
+    border-radius: 30px;
+    padding: 5px;
+    background-color: black;
 }
 
 
 #sobremim {
-    margin-left: 230px;
-}
-
-#hobbies {
-    margin-left: 230px;
+    margin-left: 250px;
 }
 
 .guia {
-    margin-left: 230px;
+    margin-left: 250px;
 }
 
 .linkedin {
