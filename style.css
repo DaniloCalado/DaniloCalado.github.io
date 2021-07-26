@@ -10,12 +10,15 @@ h2 {
 #perfil {
     font-style: oblique;
     font-size: 20px;
+    
 }
 
 #danperfil {
-    width: 200px;
+    width: 220px;
     float: left;
+    height: 200px;
 }
+
 
 #sobremim {
     margin-left: 230px;
@@ -29,6 +32,10 @@ h2 {
     margin-left: 230px;
 }
 
-div {
-    border: 2px solid green;
+.linkedin {
+    height: 30px;
+}
+
+.github {
+    height: 30px;
 }
