@@ -33,8 +33,23 @@ h2 {
 
 .linkedin {
     height: 30px;
+    margin-left: 80px;
+    margin-right: 10px;
 }
 
 .github {
     height: 30px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+#voltaraotopo{
+    margin-left: 100px;
+    
+}
+
+#voltaraotopo:hover {
+    font-variant-caps: all-small-caps;
+    background-color: bisque;
+    margin-right: 970px;
 }
